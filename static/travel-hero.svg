@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 420">
+  <rect width="800" height="420" rx="36" fill="#eef0e7"/>
+  <path d="M0 285 168 138l74 70 105-116 190 190 92-70 171 110v98H0z" fill="#b9ced2"/>
+  <path d="m168 138 74 70-47-18-27 30-28-24zM347 92l190 190-95-74-46 31-49-69z" fill="#fffaf0" opacity=".9"/>
+  <path d="M0 320c124-42 244-30 360 4s267 37 440-31v127H0z" fill="#dfe8d9"/>
+  <path d="M68 318c18-34 28-58 31-74m-10 52 31-12m-34-11-24-16M704 310c-20-39-26-65-25-90m13 55 29-18m-34-8-24-23" stroke="#6f8e7a" stroke-width="8" stroke-linecap="round" fill="none"/>
+  <g transform="translate(307 215)">
+    <rect x="0" y="31" width="104" height="125" rx="18" fill="#c99d70" stroke="#5b5a4f" stroke-width="7"/>
+    <path d="M29 32V10c0-19 46-19 46 0v22" fill="none" stroke="#5b5a4f" stroke-width="8"/>
+    <path d="M20 58h64M25 156v16m54-16v16" stroke="#5b5a4f" stroke-width="7" stroke-linecap="round"/>
+    <path d="M52 78v35" stroke="#f7f3ea" stroke-width="7" stroke-linecap="round"/>
+  </g>
+  <g transform="translate(545 109) rotate(-8)">
+    <path d="M0 0h112v51H0z" fill="#f4e5c5" stroke="#69675c" stroke-width="6"/>
+    <path d="M111 0h40v51h-40" fill="#f7f3ea" stroke="#69675c" stroke-width="6"/>
+    <path d="M31 51v42m62-42v42" stroke="#69675c" stroke-width="6"/>
+    <text x="18" y="34" fill="#6f8e7a" font-size="24" font-family="serif">Good</text>
+  </g>
+  <circle cx="115" cy="75" r="7" fill="#d6a447"/><circle cx="142" cy="57" r="4" fill="#d6a447"/>
+</svg>
